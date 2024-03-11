@@ -9,7 +9,7 @@ package SO3_R3;
  *
  * @author luisj
  */
-public class Main_SO3_R3 {
+public class main_SO3_R3 {
 
     /**
      * @param args the command line arguments
