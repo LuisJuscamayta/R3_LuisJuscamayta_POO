@@ -9,13 +9,16 @@ package SO3_R3;
  *
  * @author luisj
  */
-public class Main_SO3_R3 {
+public class S3_R3_array2 {
 
     /**
      * @param args the command line arguments
      */
+    // array de 2 dimensiones
     public static void main(String[] args) {
-        // TODO code application logic here
+        int[][] numeros2 = {{15, 25}, {10, 20}};
+        System.out.println(numeros2[1][0]);
+
     }
-    
+
 }

@@ -9,13 +9,16 @@ package SO3_R3;
  *
  * @author luisj
  */
-public class Main_SO3_R3 {
+public class S3_R3_DoWhile {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int a = 100;
+        do {
+            System.out.println("hola");
+        } while (a == 200);
     }
-    
+
 }

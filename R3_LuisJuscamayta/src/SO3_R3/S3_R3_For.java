@@ -9,13 +9,15 @@ package SO3_R3;
  *
  * @author luisj
  */
-public class Main_SO3_R3 {
+public class S3_R3_For {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("ejemplo numero "+ i);
+        }
     }
     
 }
